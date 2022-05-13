@@ -17,6 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
+DROP DATABASE IF EXISTS bdpizzeria_toscana; 
+CREATE DATABASE bdpizzeria_toscana;
+USE bdpizzeria_toscana;
+
 --
 -- Base de datos: `bdpizzeria_toscana`
 --
